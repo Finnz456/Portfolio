@@ -1,7 +1,7 @@
 <nav>
-    <div class="logo">
+    <a href="index.php" id="home"><div class="logo">
         <h4>Finn Zut</h4>
-    </div>
+    </div></a>
     <ul class="nav-links">
         <li><a href="index.php">Home</a></li>
         <li><a href="about.php">About</a></li>

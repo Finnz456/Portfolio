@@ -22,9 +22,9 @@
                         in deze website moest advies over gezond eten staan,
                         een pagina met recepeten en een BMI berekenaar.</p>
                 </div>
-                <div class="project1-foto">
+                <a href=""><div class="project1-foto">
                     <img src="img\projecten\gezond_eten.JPG" alt="gezond_eten" id="gezond_eten">
-                </div>
+                </div></a>
             </div>
             <div class="project2">
                 <div class="project2-tekst">
