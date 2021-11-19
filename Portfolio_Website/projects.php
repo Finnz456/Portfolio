@@ -17,27 +17,21 @@
         <div class="projecten">
             <div class="project1">
                 <div class="project1-tekst">
-                    <h2>Gezond Eten</h2>
-                    <p>Bij dit Project moesten we een website bouwen.
-                        in deze website moest advies over gezond eten staan,
-                        een pagina met recepeten en een BMI berekenaar.</p>
+                    <h2>C#-MVC</h2>
+                    <p>Dit is mijn laatste opdracht waar ik aan werk en heb gewerkt. Klik op de foto om de code te bekijken.</p>
                 </div>
-                <a href=""><div class="project1-foto">
-                    <img src="img\projecten\gezond_eten.JPG" alt="gezond_eten" id="gezond_eten">
+                <a href="https://github.com/Finnz456/csharp-MVC"><div class="project1-foto">
+                    <img src="img\projecten\mvc.JPG" alt="gezond_eten" id="gezond_eten">
                 </div></a>
             </div>
             <div class="project2">
                 <div class="project2-tekst">
-                    <h2>Bestevaer</h2>
-                    <p>Dit project ging over boten. we moesten een database maken.
-                        daar zaten de boten dan in. op de website moesten 3 pagina's staan.
-                        een Home met informatie over de boten, 
-                        een calculator die bepaalde hoeveel gewicht er op een boot 
-                        kan een een pagina dat je een nieuwe boot kan toevoegen.
+                    <h2>Lekkerlezen</h2>
+                    <p>Dit was mijn eindproject van leerjaar 1. de boeken, samevatting, auteur en titel die op de website staan komen allemaal uit de database. Klik op de foto om de code te bekijken. </p>
                 </div>
-                <div class="project2-foto">
-                    <img src="img\projecten\bestevaer.JPG" alt="bestevaer" id="bestevaer">
-                </div>
+                <a href="https://github.com/Finnz456/lekker-lezen-website"><div class="project2-foto">
+                    <img src="img\projecten\lekker-lezen.JPG" alt="bestevaer" id="bestevaer">
+                </div></a>
             </div>
         </div>
     </div>

@@ -18,8 +18,8 @@
             <div class="abouttekst">
                 <h1>Dit ben ik</h1>
                 <p> Hallo, ik ben Finn Zut. Ik ben 17 jaar oud.<br>
-                    Ik ben nu bezig met de opleiding: MBO software developer in leerjaar 1.<br>
-                    Dit is 1 van mijn projecten waar ik nu zelf mee bezig ben in mijn vrije tijd.</p>
+                    Ik ben nu bezig met de opleiding: MBO software developer in leerjaar 2.<br>
+                    </p>
             </div>
             <div class="aboutfoto">
                 <img src="img\FotoMij\Eigen-foto.jpeg" alt="mij" id="mij">

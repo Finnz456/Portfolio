@@ -20,12 +20,13 @@
         <div class="homepage">
             <div class="midden-tekst-home">
                 <h1>In het kort wie ik ben</h1>
-                <p>Hallo, Ik ben een eerste jaars student die hard wil werken.
-                    Ik ben nu vooral bezig in mijn vrije tijd met leren programmeren.
-                    de talen waar ik nu vooral in bezig ben zijn: HTML/CSS en javascript.
+                <p>Hallo, Ik ben een 2e jaars student die hard wil werken.
+                    Ik ben nu vooral bezig in mijn vrije tijd met leren programmeren en naar de sportschool gaan.
+                    De talen waar ik in m'n eerste jaar mee bezig was waren HMTL, CSS, PHP en Javascript.
+                    De taal waar ik nu mee bezig ben is C#.
                     nog meer hobby's zijn vooral gamen en voetballen.
-                    Hier rechts ziet u het linkje naar mijn github en naar mij socials.
-                    u kunt mij benaderen via mijn Instagram of hieronder ↓ ziet u mijn E-mail of mijn telefoonnummer
+                    Hier rechts ziet u het linkje naar mijn github voor onder anderen de code van deze website en naar mij Instagram.
+                    u kunt mij benaderen via mijn E-mail of mijn telefoonnummer.
                 </p>
             </div>
             <div class="socials-home">
